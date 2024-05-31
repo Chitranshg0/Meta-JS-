@@ -1,4 +1,4 @@
-onst NFTs = [ ] 
+const NFTs = [ ] 
 function minNFT(_name , _eyecolor , _shirtType , _bling){
 const NFT = { 
     "name" : _name,
