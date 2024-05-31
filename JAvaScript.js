@@ -28,9 +28,9 @@ function getTotalSupply(){
 console.log("\n" + NFTs.length);
 }
 // call your functions below this line
-minNFT("sam ","Red","T shirt","Gold chain");
-minNFT("Raj ","Green","hoodie","silver chain");
-minNFT("ria ","Red","T shirt","Gold chain");
-minNFT("tom ","Green","hoodie","silver chain");
+minNFT("Chitransh ","Red","T shirt","Gold chain");
+minNFT("Mukesh ","Green","hoodie","silver chain");
+minNFT("Priya ","Red","T shirt","Gold chain");
+minNFT("tommy ","Green","hoodie","silver chain");
 listNFTs();
 getTotalSupply();
